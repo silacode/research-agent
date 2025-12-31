@@ -1,0 +1,7 @@
+[project]
+name = "research-agent"
+version = "0.1.0"
+description = "A reflective research agent with tools"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
